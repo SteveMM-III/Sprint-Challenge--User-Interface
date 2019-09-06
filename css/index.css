@@ -71,6 +71,8 @@ p {
     margin: 0 auto;
 }
 
+
+/* changes start below */
 header, footer {
     width: 100%;
 }
