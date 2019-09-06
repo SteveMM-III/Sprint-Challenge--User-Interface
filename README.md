@@ -38,7 +38,7 @@ Providing tags that have meaning to the content
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-display block doesn't break the flow of the page, and take up as much space as the parent
+display inline doesn't break the flow of the page, and block will take up as much space as the parent
 
 3. What are the 4 areas of the box model?
 
